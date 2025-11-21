@@ -1,0 +1,8 @@
+# --- Dependencies (Heavy) ---
+node_modules/
+
+# --- System Junk ---
+.DS_Store
+Thumbs.db
+
+# (Everything else: inputs, proofs, keys are ALLOWED for this demo.. educational purposes!)
